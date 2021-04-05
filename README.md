@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cobra05
 - 👀 I’m interested in Android Developing
-- 🌱 I’m currently learning Java, and bit later Kotlin
+- 🌱 I’m currently learning Java, and later Kotlin
 - 📫 How to reach me? Contact me to mail: raistlinmajere10@gmail.com 
 
 <!---
